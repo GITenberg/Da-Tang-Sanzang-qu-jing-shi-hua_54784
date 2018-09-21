@@ -1,0 +1,44 @@
+_repo: Da-Tang-Sanzang-qu-jing-shi-hua_54784
+_version: 0.0.1
+alternative_title: Da Tang Sanzang qu jing shi hua
+contributor:
+  annotator:
+    agent_name: Wang, Guowei
+    aliases:
+    - 王國維
+    - Wang, Guo Wei
+    birthdate: 1877
+    deathdate: 1927
+    gutenberg_agent_id: '26257'
+    url: http://www.gutenberg.org/2009/agents/26257
+    wikipedia: http://en.wikipedia.org/wiki/Wang_Guowei
+  contributor:
+    agent_name: Luo, Zhenyu
+    aliases:
+    - Luo, Zhen Yu
+    - 羅振玉
+    birthdate: 1866
+    deathdate: 1940
+    gutenberg_agent_id: '48043'
+    url: http://www.gutenberg.org/2009/agents/48043
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2017-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54784'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Xuanzang, approximately 596-664 -- Fiction'
+- !lcc 'PL'
+- GITenberg
+title: 大唐三藏取經詩話
+url: http://www.gutenberg.org/ebooks/54784
